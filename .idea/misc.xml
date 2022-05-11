@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/2_EMSI/4-Eme_annee/TPNavigationDrawerMarqueMachineSpringBoot/app/src/main/res/layout/activity_auth.xml" value="0.1" />
+        <entry key="..\:/2_EMSI/4-Eme_annee/TPNavigationDrawerMarqueMachineSpringBoot/app/src/main/res/layout/detailmachine.xml" value="0.17552083333333332" />
+        <entry key="..\:/2_EMSI/4-Eme_annee/TPNavigationDrawerMarqueMachineSpringBoot/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/2_EMSI/4-Eme_annee/TPNavigationDrawerMarqueMachineSpringBoot/app/src/main/res/layout/fragment_home.xml" value="0.12864583333333332" />
+        <entry key="..\:/2_EMSI/4-Eme_annee/TPNavigationDrawerMarqueMachineSpringBoot/app/src/main/res/layout/fragment_machine.xml" value="0.12864583333333332" />
+        <entry key="..\:/2_EMSI/4-Eme_annee/TPNavigationDrawerMarqueMachineSpringBoot/app/src/main/res/layout/fragment_marque.xml" value="0.17552083333333332" />
+        <entry key="..\:/2_EMSI/4-Eme_annee/TPNavigationDrawerMarqueMachineSpringBoot/app/src/main/res/layout/fragment_produit.xml" value="0.22" />
+        <entry key="..\:/2_EMSI/4-Eme_annee/TPNavigationDrawerMarqueMachineSpringBoot/app/src/main/res/layout/fragment_slideshow.xml" value="0.12864583333333332" />
+        <entry key="..\:/2_EMSI/4-Eme_annee/TPNavigationDrawerMarqueMachineSpringBoot/app/src/main/res/layout/itemmachine.xml" value="0.17552083333333332" />
+        <entry key="..\:/2_EMSI/4-Eme_annee/TPNavigationDrawerMarqueMachineSpringBoot/app/src/main/res/layout/itemmarque.xml" value="0.17552083333333332" />
+        <entry key="..\:/2_EMSI/4-Eme_annee/TPNavigationDrawerMarqueMachineSpringBoot/app/src/main/res/layout/itemproduit.xml" value="0.14666666666666667" />
+        <entry key="..\:/2_EMSI/4-Eme_annee/TPNavigationDrawerMarqueMachineSpringBoot/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/2_EMSI/4-Eme_annee/TPNavigationDrawerMarqueMachineSpringBoot/app/src/main/res/menu/main.xml" value="0.14666666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
